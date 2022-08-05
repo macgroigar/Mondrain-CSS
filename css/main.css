@@ -1,0 +1,127 @@
+body, html {
+    background-color: #f6f6f6;
+}
+
+#canvas {
+    background-color: #fff4db;
+    width: 600px;
+    height: 600px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #bbb;
+}
+
+#toprow {
+    height:290px;
+}
+
+#bigbox {
+    width: 290px;
+    height: 290px;
+}
+
+.lightred {
+    background-color: #f99;
+
+}
+
+.blue {
+    background-color: #cdf;
+}
+
+.yellow {
+    background-color: #ef6;
+}
+
+.slategray {
+    background-color: #344;
+}
+
+.darkorchid {
+    background-color: #a4d;
+}
+
+.red {
+    background-color: #f00;
+}
+
+.white {
+    background-color: #fff;
+}
+
+.navy {
+    background-color: #028;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+#divider1 {
+    height: 290px;
+    width: 10px;
+}
+
+#divider2 {
+    height: 10px;
+    width: 300px;
+}
+
+#divider3 {
+    height: 10px;
+    width: 600px;
+}
+
+#divider4 {
+    height: 190px;
+    width: 10px;
+}
+
+#divider5 {
+    height: 10px;
+    width: 600px;
+}
+
+.mediumbox {
+    height: 140px;
+    width: 300px;
+    background-color:#ef6;
+}
+
+.mediumbox1 {
+    height: 140px;
+    width:300px;
+    background-color: #cdf;
+}
+
+#topleftcolumn {
+    width: 300px;
+    height: 290px;
+}
+
+#middlerow {
+    height: 190px;
+    width: 600px;
+}
+
+.box {
+    height: 190px;
+    width: 140px;
+    
+}
+
+#bottomrow {
+    height: 110px;
+    width: 600px;
+}
+
+.box2 {
+    height: 100px;
+    width: 600px;
+    background-color: #705;
+}
